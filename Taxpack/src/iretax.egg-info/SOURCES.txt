@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/Iretax.egg-info/PKG-INFO
+src/Iretax.egg-info/SOURCES.txt
+src/Iretax.egg-info/dependency_links.txt
+src/Iretax.egg-info/top_level.txt
+src/iretax/__init__.py
+src/iretax/rebate_calculator.py
+src/iretax/tax_calculator.py
+src/iretax.egg-info/PKG-INFO
+src/iretax.egg-info/SOURCES.txt
+src/iretax.egg-info/dependency_links.txt
+src/iretax.egg-info/top_level.txt
+tests/test_rebate_calculator.py
+tests/test_tax_calculator.py

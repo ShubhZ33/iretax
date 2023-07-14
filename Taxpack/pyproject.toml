@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "iretax"
+version = "0.0.4"
+authors = [
+  { name="Shubham Goswami", email="goswamis@tcd.ie" },
+]
+description = "A Tax Calculation and Rebate System"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ShubhZ33/iretax"
+"Bug Tracker" = "https://github.com/ShubhZ33/iretax/issues"
+
+
