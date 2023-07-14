@@ -14,7 +14,7 @@ The advantage of using iRetax is that it converts complex tax calculations into 
 The iretax package can be easily installed from TestPyPI by running the following command:
 
 ```shell
-pip install -i https://test.pypi.org/simple/iretax==0.0.2
+pip install iretax
 ```
 
 Usage
